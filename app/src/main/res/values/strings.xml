@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BookPedia</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_read_list">Read List</string>
+    <string name="menu_profile">Profile</string>
+    <string name="back">Back</string>
+    <string name="add_to_read_list">Add To Read List</string>
+    <string name="remove_from_read_list">Remove From Read List</string>
+    <string name="empty_read_list">Your Read List is Empty</string>
+    <string name="search_book">Cari Buku</string>
+</resources>
